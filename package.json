@@ -1,0 +1,16 @@
+{
+  "name": "swks-theme",
+  "version": "0.0.1",
+  "description": "Um pacote criado com intuito de auxiliar no controle de temas de UI's ou mesmo de projetos proprios.",
+  "main": "./src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React",
+    "Theme",
+    "javascript"
+  ],
+  "author": "Pablo Guilherme Leite de Souza"
+}
